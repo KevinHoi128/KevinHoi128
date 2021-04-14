@@ -6,10 +6,10 @@
 
 ### Summary
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinHoi128&theme=vue&show_icons=true&hide_title=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHoi128&theme=vue" />
 </a>
 
