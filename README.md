@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-#### 🌱 I’m currently learning PHP Laravel.
+#### 🌱
 #### 📫 How to reach me: Email: Krose.kachon@gmail.com
 
 ### Summary
