@@ -1,8 +1,7 @@
 ### Hi there 👋
 ---
 
-#### 🌱
-#### 📫 How to reach me: Email: Krose.kachon@gmail.com
+#### 📫 How to reach me: Krose.kachon@gmail.com
 
 ### Summary
 ---
